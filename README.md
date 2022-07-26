@@ -1,16 +1,4 @@
-# shrink_warp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+    <img width="320" src="https://github.com/CyJaySong/flutter_shrink_warp/raw/master/doc/images/1.png"  alt="target"/>
+    <img width="320" src="https://github.com/CyJaySong/flutter_shrink_warp/raw/master/doc/images/2.png"  alt="result"/>
+</div>
