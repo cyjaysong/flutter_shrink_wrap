@@ -697,8 +697,7 @@ class RenderShrinkWrap extends RenderBox
       mainAxisExtent = math.max(mainAxisExtent, runMainAxisExtent);
       crossAxisExtent += runCrossAxisExtent;
       if (runMetrics.isNotEmpty) crossAxisExtent += runSpacing;
-      runMetrics
-          .add(_RunMetrics(runMainAxisExtent, runCrossAxisExtent, childCount));
+      runMetrics.add(_RunMetrics(runMainAxisExtent, runCrossAxisExtent, childCount));
     }
 
     final int runCount = runMetrics.length;

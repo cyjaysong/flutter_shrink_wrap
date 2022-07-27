@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.shrink_warp">
+    package="com.example.shrink_wrap">
    <application
-        android:label="shrink_warp"
+        android:label="shrink_wrap"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
